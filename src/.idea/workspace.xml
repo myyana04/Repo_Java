@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d363033a-baf2-49d8-91b0-907e8df3d63f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/Repo_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/homework/ConditionalLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/homework/HomeWork3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/homework/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/loop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ConditionalLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Repo_Java/homework/HomeWork2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Repo_Java/homework/HomeWork2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/HomeWork2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hyFeapnmCW4Kh9yPRIXE8alFkz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/.idea" />
+  </component>
+  <component name="RunManager" selected="Application.HomeWork2">
+    <configuration name="HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.HomeWork2" />
+      <module name="Repo_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.HomeWork3" />
+      <module name="Repo_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeWork2" />
+        <item itemvalue="Application.HomeWork3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d363033a-baf2-49d8-91b0-907e8df3d63f" name="Default Changelist" comment="" />
+      <created>1600975521068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600975521068</updated>
+      <workItem from="1600975522252" duration="1186000" />
+      <workItem from="1600980015750" duration="6000" />
+      <workItem from="1600980046650" duration="4000" />
+      <workItem from="1600980064894" duration="282000" />
+      <workItem from="1601325978299" duration="3126000" />
+      <workItem from="1601414703975" duration="13162000" />
+      <workItem from="1601438871111" duration="229000" />
+      <workItem from="1601500580525" duration="413000" />
+      <workItem from="1601532112029" duration="116000" />
+      <workItem from="1601532347054" duration="42000" />
+      <workItem from="1601740699503" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="254" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601532382463">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="436" y="254" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.816@0.23.1440.816" timestamp="1601532382463" />
+    <state x="140" y="223" width="1200" height="445" key="DiffContextDialog" timestamp="1601501000588">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="140" y="223" width="1200" height="445" key="DiffContextDialog/0.23.1440.816@0.23.1440.816" timestamp="1601501000588" />
+    <state width="1358" height="154" key="GridCell.Tab.0.bottom" timestamp="1601501000539">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="154" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1601501000539" />
+    <state width="1358" height="154" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1601437837562" />
+    <state width="1358" height="154" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1601437970380" />
+    <state width="1358" height="154" key="GridCell.Tab.0.center" timestamp="1601501000538">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="154" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1601501000538" />
+    <state width="1358" height="154" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1601437837562" />
+    <state width="1358" height="154" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1601437970380" />
+    <state width="1358" height="154" key="GridCell.Tab.0.left" timestamp="1601501000538">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="154" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1601501000538" />
+    <state width="1358" height="154" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1601437837561" />
+    <state width="1358" height="154" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1601437970379" />
+    <state width="1358" height="154" key="GridCell.Tab.0.right" timestamp="1601501000539">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="154" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1601501000539" />
+    <state width="1358" height="154" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1601437837562" />
+    <state width="1358" height="154" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1601437970380" />
+  </component>
+</project>

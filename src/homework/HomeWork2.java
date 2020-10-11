@@ -20,8 +20,8 @@ public class HomeWork2 {
         System.out.println( fTemp + " F is equal to " + kTemp + " IN Kalvin ");
         // T(°F) = T(K) × 9/5 - 459.67 kalvin to F
         kTemp = 68;
-        double ftemp3 = ( kTemp *9.0/5-459.67);
-        System.out.println( kTemp + " K is equal to "+ ftemp3 + " in F ");
+        double ftemp = ( kTemp *9.0/5-459.67);
+        System.out.println( kTemp + " K is equal to "+ ftemp + " in F ");
         // C to K,  T(K) = T(°C) + 273.15
         cTemp = 20;
         kTemp = cTemp + 273.13;
@@ -29,7 +29,15 @@ public class HomeWork2 {
         // K to C, T(°C) = T(K) - 273.15
         kTemp = 68;
         cTemp= kTemp-273.15;
-        System.out.println(kTemp + " is equal to "+ cTemp + " in C ");
+        System.out.println(kTemp +" Kalvin is equal to "+ cTemp + " in C ");
+
+
+
+
+
+
+
+
 
 
 
