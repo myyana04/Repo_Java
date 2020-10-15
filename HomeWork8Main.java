@@ -5,7 +5,12 @@ public class HomeWork8Main {
 
     //method for findout about toner count in a printer;
         a1.tonerCount(8);
+
+        //method to count pages left in the printer;
         a1.pagesCount(11);
+
+        //method to print single sided pages;
+        a1.singleSidedPages(11);
 
 
 
