@@ -32,7 +32,7 @@ public class HomeWork8 {
                 break;
 
             } else
-                System.out.println(" There are " +pagesLeft + " pages left in the printer ");
+                System.out.println(" There are " + pagesLeft + " pages left in the printer ");
             break;
 
 
@@ -41,5 +41,27 @@ public class HomeWork8 {
 
     }
 
+    public void singleSidedPages(int num) {
+
+        int p=100;
+        int t=100;
+        for (int i = 0; i <= 100; i++) {
+
+            p = p -num;
+            t=t-num;
+            System.out.println(" print " + num + " single sided pages");
+            System.out.println( p +" pages and "+ t + " toner left");
+            break;
+
+
+
+
+
+        }
+
+
+    }
 }
+
+
 
