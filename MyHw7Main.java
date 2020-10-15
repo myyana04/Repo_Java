@@ -26,5 +26,10 @@ public class MyHw7Main {
         String[] strValues = {"lake", "river","sky", "Sea", "Lake","river","sea"};
 
         a1.findDupSt(strValues);
+        String[] s1={"jim","John","chill","jill","Carl", "susan"};
+        String []s2={"susan","carl","joe","john"};
+
+        a1.findComValue(s1,s2);
+
     }
 }
