@@ -14,7 +14,7 @@ public class HomeWork8 {
             } else
 
 
-                System.out.println(" Printer has " + tonerLeft + " toner left ");
+                System.out.println("Printer has " + tonerLeft + " toner left ");
             break;
 
         }
@@ -28,11 +28,11 @@ public class HomeWork8 {
         for (int i = 0; i <= 100; i++) {
             int pagesLeft = max - num;
             if (pagesLeft == max) {
-                System.out.println(" Pages are full ");
+                System.out.println("Pages are full ");
                 break;
 
             } else
-                System.out.println(" There are " + pagesLeft + " pages left in the printer ");
+                System.out.println("There are " + pagesLeft + " pages left in the printer ");
             break;
 
 
@@ -49,8 +49,8 @@ public class HomeWork8 {
 
             p = p -num;
             t=t-num;
-            System.out.println(" print " + num + " single sided pages");
-            System.out.println(p +" pages and "+ t + " toner left");
+            System.out.println("print " + num + " single sided pages");
+            System.out.println(p+" pages and "+ t + " toner left");
             break;
 
 
