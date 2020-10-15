@@ -50,7 +50,7 @@ public class HomeWork8 {
             p = p -num;
             t=t-num;
             System.out.println(" print " + num + " single sided pages");
-            System.out.println( p +" pages and "+ t + " toner left");
+            System.out.println(p +" pages and "+ t + " toner left");
             break;
 
 
