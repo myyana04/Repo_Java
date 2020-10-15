@@ -48,18 +48,38 @@ public class MyHw7 {
         public void findDupSt(String[]commonStr) {
 
 
-            for (int i = 0; i< commonStr.length; i++) {
+            for (int i = 0; i < commonStr.length; i++) {
                 for (int j = i + 1; j < commonStr.length; j++) {
                     if ((commonStr[i].equalsIgnoreCase(commonStr[j]))) {
                         System.out.println("Duplicate values is : " + commonStr[j]);
                         break;
+                         }
+                    }
+
+               }
+            }
+
+            public void findComValue(String[] s1,String[] s2){
+                for(int i = 0; i < s1.length; i++)
+                {
+                    for(int j = 0; j < s2.length; j++)
+                    {
+                        if(s1[i].equalsIgnoreCase(s2[j]))
+                            System.out.println(s1[i]);
+                        {
+
+                        }
                     }
                 }
+
+
+
 
             }
 
 
-        }
+
+
 
 
 }
