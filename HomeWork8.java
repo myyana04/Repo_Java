@@ -43,15 +43,9 @@ public class HomeWork8 {
 
     public void singleSidedPages(int num) {
 
-        int p=100;
-        int t=100;
-        for (int i = 0; i <= 100; i++) {
 
-            p = p -num;
-            t=t-num;
-            System.out.println("print " + num + " single sided pages");
-            System.out.println(p+" pages and "+ t + " toner left");
-            break;
+            System.out.println( num + " pages required");
+            System.out.println(num + " toner required");
 
 
 
@@ -60,8 +54,17 @@ public class HomeWork8 {
         }
 
 
-    }
-}
+
+    public void doubleSidedPages(int pages) {
+        System.out.println("For " + pages + " double sided pages, Toner required is : " + pages);
+
+        if (pages % 2 == 0) {
+            pages = pages / 2;
+        } else {
+            pages = ((pages / 2) + 1);
+        }
+        System.out.println("Pages required : " + pages);
 
 
+    }}
 
