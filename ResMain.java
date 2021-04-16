@@ -15,6 +15,8 @@ public class ResMain {
         r1.removesParty(33);
         r1.printsRestaurantSummary();
 
+
+
     }
 
 
