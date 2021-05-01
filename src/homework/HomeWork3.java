@@ -18,6 +18,7 @@ public class HomeWork3 {
         System.out.println("The length of your first name is: " + firstName.length());
         String []names=myName.split(" ");
         firstName=names[0];
+        int len=myName.length();
         String lastName=names[1];
         boolean isLastName=lastName.toLowerCase().startsWith("k");
         System.out.println("does your last name starts with k:  " +isLastName);

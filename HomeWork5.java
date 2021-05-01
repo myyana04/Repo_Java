@@ -55,14 +55,7 @@ public class HomeWork5 {
         // code
         //System.out.println("Message in reverse: " + reverseMessage);    // syadiloh yppah
 
-        String reverseMessage="";
-        System.out.println("Message: "+ mess);
-        int p=0;
-        while(p<mess.length()){
-            reverseMessage=mess.substring(p,p+1)+reverseMessage;
-            p++;
-        }
-        System.out.println(" Message in reverse: "+reverseMessage);
+        
 
 
 

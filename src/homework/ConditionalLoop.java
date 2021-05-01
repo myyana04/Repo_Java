@@ -99,7 +99,7 @@ public class ConditionalLoop {
                         System.out.println("Invalid mode");
                         break;
                 }
-                break;
+
             default:
                 System.out.println("Invalid shift");
                 break;

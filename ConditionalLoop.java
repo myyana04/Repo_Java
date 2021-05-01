@@ -74,7 +74,7 @@ public class ConditionalLoop {
 
         char shift='D';
         String dMode="Sport";
-        switch(shift) {
+        switch(shift.toLowerCase) {
             case 'P':
                 System.out.println("You can park the car");
                 break;

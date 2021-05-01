@@ -34,6 +34,23 @@ public class HomeWork1 {
         System.out.println(" My full name is "+fullName);
 
 
+        byte noOfHoursADay=24;
+        System.out.println("There are "+noOfHoursADay+" hours in a day ");
+
+        int com1=5;
+        int com2=7;
+        boolean com1grcom2=com1<com2;
+        System.out.println(com1grcom2);
+        System.out.println(com1++);
+        System.out.println(com1);
+        int lVar1=10, lVar2=20, lVar3=30,
+                lVar4=40;
+        boolean lRes1=lVar1<=lVar3 && (lVar2==(lVar4-lVar1-lVar1))&& lVar4==lVar2;
+        System.out.println(lRes1);
+        boolean lRes2=!(lVar1<=lVar3 || (lVar2==(lVar4-lVar1-lVar1))|| lVar4==lVar2);
+        System.out.println(lRes2);
+
+
 
 
 

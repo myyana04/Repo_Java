@@ -2,27 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d363033a-baf2-49d8-91b0-907e8df3d63f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/Repo_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/homework/ConditionalLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/homework/HomeWork3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/homework/homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Repo_Java/loop" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ConditionalLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/HomeWork3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork7/MyHw7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork7/MyHw7Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MidTerm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TryingHard/Hardly_Trying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Repo_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Repo_Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Repo_Java/HomeWork1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Repo_Java/HomeWork1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Repo_Java/HomeWork5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Repo_Java/HomeWork5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Repo_Java/HomeWork6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Repo_Java/homework/ConditionalLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Repo_Java/homework/ConditionalLoop.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Repo_Java/homework/HomeWork2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Repo_Java/homework/HomeWork2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Repo_Java/homework/HomeWork3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Repo_Java/homework/HomeWork3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork5.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/ConditionalLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/ConditionalLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/HomeWork2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/HomeWork3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +88,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeWork3" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="homework.HomeWork3" />
       <module name="Repo_Java" />
       <extension name="coverage">
@@ -128,6 +141,11 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="436" y="254" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.816@0.23.1440.816" timestamp="1601532382463" />
+    <state x="444" y="131" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1607201816698">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="444" y="131" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.822@0.23.1440.822" timestamp="1607201816698" />
+    <state x="444" y="131" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.824@0.23.1440.824" timestamp="1607201663964" />
     <state x="140" y="223" width="1200" height="445" key="DiffContextDialog" timestamp="1601501000588">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
@@ -156,5 +174,11 @@
     <state width="1358" height="154" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1601501000539" />
     <state width="1358" height="154" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1601437837562" />
     <state width="1358" height="154" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1601437970380" />
+    <state x="161" y="72" key="new project wizard" timestamp="1607375984764">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="88" y="56" key="new project wizard/0.23.1440.822@0.23.1440.822" timestamp="1607295286278" />
+    <state x="161" y="72" key="new project wizard/0.23.1440.823@0.23.1440.823" timestamp="1607375984763" />
+    <state x="88" y="56" key="new project wizard/0.23.1440.824@0.23.1440.824" timestamp="1607373179624" />
   </component>
 </project>
